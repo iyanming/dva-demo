@@ -1,0 +1,18 @@
+#root{
+    width:300px;
+    height:200px;
+    margin:0 auto;
+    text-align: center;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#root h2{
+    font-size:80px;
+}
+#root button{
+    background: dodgerblue;
+    color:white;
+    border:none;
+    width:30px;
+    margin-right:10px;
+}
