@@ -69,7 +69,7 @@ function Users({ dispatch, list: dataSource, loading, total, page: current }) {
   ];
 
   return (
-    <div className="normal">
+    <div className="user">
       <div>
         <div className="create">
           <UserModal record={{}} onOk={createHandler}>
